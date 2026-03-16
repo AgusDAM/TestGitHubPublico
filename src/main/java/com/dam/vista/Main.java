@@ -7,6 +7,8 @@ public class Main {
         IO.println("Hola Git!!");
         IO.println("Adios Git!!");
 
+        IO.println("Adios Git!!");
+
     }
 
 }
